@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .btn-explore{
+    text-decoration: none;
+    background-color: #836BF9 ;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: poniter;
+  }
+  .btn-explore:hover{
+    background-color: blueviolet;
+    color: white;
+  
+  }
+  

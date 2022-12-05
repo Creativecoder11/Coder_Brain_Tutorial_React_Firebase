@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+.btn-nav a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: white;
+}
+.btn-nav a:hover{
+    color: white;
+    text-decoration: dashed;
+}
+.navbar{
+    background-color: #6a4ef5;
+}

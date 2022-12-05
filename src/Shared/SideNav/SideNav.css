@@ -1,0 +1,14 @@
+.course-btn{
+    text-decoration: none;
+    background-color: white;
+    border: 2px solid #836BF9 ;
+    border-radius: 10px;
+    color: black;
+    padding: 8px 10px;
+    margin: 10px
+}
+.course-btn:hover{
+    background-color: #836BF9;
+    color: white;
+    
+}
